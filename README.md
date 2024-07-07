@@ -34,28 +34,35 @@ Finally, click on the "Save to Firebase" button to store the displayed attribute
 
 ## Screenshots
 
-<p align="center">
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="images/screenshot1.jpg" width="200" /><br>
-    <em>Description of Screenshot 1</em>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="images/screenshot2.jpg" width="200" /><br>
-    <em>Description of Screenshot 2</em>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="images/screenshot3.jpg" width="200" /><br>
-    <em>Description of Screenshot 3</em>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="images/screenshot4.jpg" width="200" /><br>
-    <em>Description of Screenshot 4</em>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="images/logo.png" width="200" /><br>
-    <em>Logo</em>
-  </span>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/screenshot1.jpg" width="200" /><br>
+      <em>Description of Screenshot 1</em>
+    </td>
+    <td align="center">
+      <img src="images/screenshot2.jpg" width="200" /><br>
+      <em>Description of Screenshot 2</em>
+    </td>
+    <td align="center">
+      <img src="images/screenshot3.jpg" width="200" /><br>
+      <em>Description of Screenshot 3</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/screenshot4.jpg" width="200" /><br>
+      <em>Description of Screenshot 4</em>
+    </td>
+    <td align="center">
+      <img src="images/logo.png" width="200" /><br>
+      <em>Logo</em>
+    </td>
+    <td align="center">
+      <!-- Placeholder to keep the table balanced -->
+    </td>
+  </tr>
+</table>
 
 ## Demo Video 
 <p align = "center">
