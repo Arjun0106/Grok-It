@@ -62,3 +62,7 @@ Finally, click on the "Save to Firebase" button to store the displayed attribute
     </td>
   </tr>
 </table>
+
+## Demo Video
+
+https://github.com/Arjun0106/Grok-It/assets/71865906/d6c8d6b6-3a6f-483b-a0ee-3d26a710db8d
