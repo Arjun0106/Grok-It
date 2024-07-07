@@ -31,3 +31,19 @@ Second Option: Click on the "Select from Device" button to select an image from 
 ### Step 5 : Click on Save to Firebase
 
 Finally, click on the "Save to Firebase" button to store the displayed attributes to the firebase database.
+
+## Screenshots
+
+<p align="center">  
+  <img src="images/screenshot1.jpg" width="200" />
+  <img src="images/screenshot2.jpg" width="200" />
+  <img src="images/screenshot3.jpg" width="200" />
+  <img src="images/screenshot4.jpg" width="200" />
+  <img src="images/logo.png" width="200" />
+</p>
+
+
+## Demo Video 
+<p align = "center">
+  <img src="images/Grok-It%20Project%20Demo%20Video.mp4" width="200" />
+</p>
