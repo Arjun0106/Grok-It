@@ -64,6 +64,4 @@ Finally, click on the "Save to Firebase" button to store the displayed attribute
 </table>
 
 ## Demo Video 
-<p align = "center">
-https://github.com/Arjun0106/Grok-It/blob/main/images/Grok-It%20Project%20Demo%20Video.mp4
-</p>
+[https://github.com/Arjun0106/Grok-It/blob/main/images/Grok-It%20Project%20Demo%20Video.mp4](https://github.com/Arjun0106/Grok-It/blob/f2abdc5147d4a27ad1e0680a9ef84b641bb3cc5d/images/Grok-It%20Project%20Demo%20Video.mp4)
