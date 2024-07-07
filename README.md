@@ -62,8 +62,3 @@ Finally, click on the "Save to Firebase" button to store the displayed attribute
     </td>
   </tr>
 </table>
-
-<video width="600" controls>
-  <source src="https://github.com/Arjun0106/Grok-It/blob/main/images/Grok-It%20Project%20Demo%20Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
