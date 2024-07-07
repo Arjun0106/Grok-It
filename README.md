@@ -58,9 +58,6 @@ Finally, click on the "Save to Firebase" button to store the displayed attribute
       <img src="images/logo.png" width="200" /><br>
       <em>Logo</em>
     </td>
-    <td align="center">
-      <!-- Placeholder to keep the table balanced -->
-    </td>
   </tr>
 </table>
 
