@@ -36,10 +36,15 @@ Finally, click on the "Save to Firebase" button to store the displayed attribute
 
 <p align="center">  
   <img src="images/screenshot1.jpg" width="200" />
+  <em>Splash Screen</em>
   <img src="images/screenshot2.jpg" width="200" />
+  <em>Home Screen</em>
   <img src="images/screenshot3.jpg" width="200" />
+  <em>Output Screen 1</em>
   <img src="images/screenshot4.jpg" width="200" />
+  <em>Output Screen 2</em>
   <img src="images/logo.png" width="200" />
+  <em>Application Logo</em>
 </p>
 
 
