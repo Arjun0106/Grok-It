@@ -27,7 +27,7 @@ First Option: After the app is launched, click on the "Live Scan" button to star
 
 Second Option: Click on the "Select from Device" button to select an image from the local storage by providing the storage permission of that mobile device.
 
-### Step 5 : Click on Save to Firebase
+### Step 4 : Click on Save to Firebase
 
 Finally, click on the "Save to Firebase" button to store the displayed attributes in the Firebase database.
 
