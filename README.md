@@ -2,11 +2,12 @@
 
 ## Project Description
 
-Grok-It is an object recognition mobile application capable of recognizing physical or real-world objects through the mobile camera or images stored in the mobile's storage to provide comprehensive information about the objects present in it. This application has been developed using Kotlin, Firebase and Google's Gemini AI 1.5 Flash API. This application is specially developed to participate in Google's Gemini API Developer Competition.
+Grok-It is an object recognition mobile application capable of recognizing physical or real-world objects through the mobile camera or images stored in the mobile's storage to provide comprehensive information about the objects in it. This application has been developed using Kotlin, Firebase and Google's Gemini AI 1.5 Flash API. This application is specially developed to participate in Google's Gemini API Developer Competition.
 
 ## Tech Stack
 
 - Kotlin
+- Kotlin Coroutines
 - Gemini 1.5 Flash API
 - Firebase
 
@@ -14,11 +15,11 @@ Grok-It is an object recognition mobile application capable of recognizing physi
 
 ### Step 1 : Clone Project
 
-Clone this project into your local system.
+Clone the project into your local system.
 
 ### Step 2 : Build & Run Project
 
-Build & sync all the necessary dependencies then run the project in the built-in emulator in Android Studio or in your mobile device.
+Build & sync all the necessary dependencies, then run the project in the built-in emulator in Android Studio or your mobile device.
 
 ### Step 3 : Click on Live Scan Button
 
@@ -30,7 +31,7 @@ Second Option: Click on the "Select from Device" button to select an image from 
 
 ### Step 5 : Click on Save to Firebase
 
-Finally, click on the "Save to Firebase" button to store the displayed attributes to the firebase database.
+Finally, click on the "Save to Firebase" button to store the displayed attributes in the Firebase database.
 
 ## Screenshots
 
