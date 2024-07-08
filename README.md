@@ -21,11 +21,9 @@ Clone the project into your local system.
 
 Build & sync all the necessary dependencies, then run the project in the built-in emulator in Android Studio or your mobile device.
 
-### Step 3 : Click on Live Scan Button
+### Step 3 : Choose any one of the Two Buttons in the Home Screen
 
 First Option: After the app is launched, click on the "Live Scan" button to start capturing an object using the mobile camera by providing camera permission on that device.
-
-### Step 4 : Click on Select From Device Button
 
 Second Option: Click on the "Select from Device" button to select an image from the local storage by providing the storage permission of that mobile device.
 
