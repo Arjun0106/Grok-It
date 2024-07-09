@@ -36,27 +36,27 @@ Finally, click on the "Save to Firebase" button to store the displayed attribute
 <table>
   <tr>
     <td align="center">
-      <img src="images/screenshot1.jpg" width="300" /><br>
+      <img src="images/screenshot1.jpg" width="600" /><br>
       <em>Splash Screen</em>
     </td>
     <td align="center">
-      <img src="images/screenshot2.jpg" width="300" /><br>
+      <img src="images/screenshot2.jpg" width="600" /><br>
       <em>Home Screen</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/screenshot3.jpg" width="300" /><br>
+      <img src="images/screenshot3.jpg" width="600" /><br>
       <em>Output Screen 1</em>
     </td>
     <td align="center">
-      <img src="images/screenshot4.jpg" width="300" /><br>
+      <img src="images/screenshot4.jpg" width="600" /><br>
       <em>Output Screen 2</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/logo.png" width="300" /><br>
+      <img src="images/logo.png" width="600" /><br>
       <em>Application Logo</em>
     </td>
   </tr>
