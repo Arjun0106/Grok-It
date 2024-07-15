@@ -126,7 +126,7 @@ class MainActivity : AppCompatActivity() {
     private fun processImage(image: Bitmap) {
         val generativeModel = GenerativeModel(
             modelName = "gemini-1.5-flash",
-            apiKey = "enter_your_api_here" //Don't forget to provide API Key
+            apiKey = "enter_your_api_key_here" //Don't forget to provide API Key
         )
 
         val inputContent = content {
