@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Developed a mobile application capable of recognizing physical or real-world objects through the mobile camera or images stored in the mobile's storage to provide comprehensive information about the objects present in it. This application has been developed using Kotlin, Firebase and Google's Gemini AI 1.5 Flash API. I created this application to participate in Google's Gemini API Developer Competition.
+Developed a mobile application, capable of recognizing physical or real-world objects through the mobile camera or images stored in the mobile's storage to provide comprehensive information about the objects present in it. This application has been developed using Kotlin, Firebase and Google's Gemini AI 1.5 Flash API. I created this application to participate in Google's Gemini API Developer Competition.
 
 ## Tech Stack
 
@@ -19,11 +19,11 @@ Clone the project into your local system.
 
 ### Step 2 : Build & Run Project
 
-Build & sync all the necessary dependencies, then run the project in the built-in emulator in Android Studio or your mobile device.
+Build & sync all the necessary dependencies. Don't forget to add your Gemini & Firebase API keys to the project, then run the project using the built-in emulator in Android Studio or your mobile device.
 
 ### Step 3 : Choose any one of the Two Buttons in the Home Screen
 
-First Option: After the app is launched, click on the "Live Scan" button to start capturing an object using the mobile camera by providing camera permission on that device.
+First Option: After launching the app, click on the "Live Scan" button to start capturing an object using the mobile camera by providing camera permission on that device.
 
 Second Option: Click on the "Select from Device" button to select an image from the local storage by providing the storage permission of that mobile device.
 
