@@ -19,7 +19,7 @@ Clone the project into your local system.
 
 ### Step 2 : Build & Run Project
 
-Build & sync all the necessary dependencies. Don't forget to add your Gemini & Firebase API keys to the project, then run the project using the built-in emulator in Android Studio or your mobile device.
+Build & sync all the necessary dependencies. Don't forget to add your Gemini & Firebase API keys to the project, then run the project using either the built-in emulator in Android Studio or your mobile device.
 
 ### Step 3 : Choose any one of the Two Buttons in the Home Screen
 
